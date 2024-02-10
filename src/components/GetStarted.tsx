@@ -10,7 +10,7 @@ const GetStartedSection = () => {
       </button>
       <div className="absolute bottom-0 left-1/2 transform -translate-x-1/2 -mb-16 " style={{ height: '300px' }}>
         <img
-          src="/assets/grp.jpg" // Replace with your image path
+          src="/assets/grp.jpg" 
           alt="Team"
           className="object-cover rounded-full border-4 border-blue-500"
         />

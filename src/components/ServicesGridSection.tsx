@@ -12,9 +12,9 @@ const ServicesGridSection = () => {
           </div>
   
           <div className="mt-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 ">
-            {/* Custom Software Development */}
+            
             <div className="rounded-lg shadow-lg p-6 text-left">
-              {/* Icon placeholder */}
+             
               <div className="m-4">
                 <Image 
                 src="/assets/logo1.jpeg"
@@ -29,9 +29,9 @@ const ServicesGridSection = () => {
               </p>
             </div>
   
-            {/* QA and Testing */}
+           
             <div className="rounded-lg shadow-lg p-6 text-left">
-              {/* Icon placeholder */}
+            
               <div className="m-4">
                 <Image 
                 src="/assets/logo2.jpeg"
@@ -46,9 +46,9 @@ const ServicesGridSection = () => {
               </p>
             </div>
   
-            {/* AI and Data Science */}
+            
             <div className="rounded-lg shadow-lg p-6 text-left ">
-              {/* Icon placeholder */}
+             
               <div className="m-4">
                 <Image 
                 src="/assets/logo3.jpeg"
@@ -64,7 +64,7 @@ const ServicesGridSection = () => {
             </div>
             
             <div className="rounded-lg shadow-lg p-6 text-left">
-              {/* Icon placeholder */}
+              
               <div className="m-4">
                 <Image 
                 src="/assets/logo4.jpeg"
@@ -79,9 +79,9 @@ const ServicesGridSection = () => {
               </p>
             </div>
   
-            {/* QA and Testing */}
+           
             <div className="rounded-lg shadow-lg p-6 text-left">
-              {/* Icon placeholder */}
+              
               <div className="m-4">
                 <Image 
                 src="/assets/logo5.jpeg"
@@ -96,9 +96,9 @@ const ServicesGridSection = () => {
               </p>
             </div>
   
-            {/* AI and Data Science */}
+          
             <div className="rounded-lg shadow-lg p-6 text-left">
-              {/* Icon placeholder */}
+             
               <div className="m-4">
                 <Image 
                 src="/assets/logo6.jpeg"
@@ -112,7 +112,7 @@ const ServicesGridSection = () => {
               Ensure applications are secure, fault tolerant and highly available with our DevOps and Security engineers.
               </p>
             </div>
-            {/* Additional services... */}
+           
           </div>
         </div>
       </div>

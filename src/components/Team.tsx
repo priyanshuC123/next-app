@@ -1,7 +1,7 @@
 import React from 'react';
 
 const TeamSection = () => {
-  // Dummy data for team members
+  
 
   return (
     <div className="flex flex-col items-center justify-center bg-white py-16">
@@ -9,8 +9,8 @@ const TeamSection = () => {
         
           <div className="flex flex-col items-center">
             <img
-              src="/assets/frame.jpeg" // Replace with your image path
-              alt="frame" // Adjust size as needed
+              src="/assets/frame.jpeg" 
+              alt="frame" 
             />
             
           </div>

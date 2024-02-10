@@ -12,7 +12,7 @@ interface TestimonialType {
 
 
 const TestimonialCard: React.FC<TestimonialType> = ({ name, profession, image, title, testimonial }) => {
-    // Check if image is a string or has a 'src' property
+    
     const imageUrl = typeof image === 'string' ? image : image.src;
   return (
     <div className="testimonial-card p-4 bg-white rounded-lg shadow-md">

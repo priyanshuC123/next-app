@@ -8,14 +8,14 @@ const BrandSection = () => {
       
       <div >
       <img
-          src="/assets/handshake.png" // Replace with your image path
+          src="/assets/handshake.png" 
           alt="Handshake"
-          className="w-10/12 object-center mr-8 " // Increase the right margin for more space
+          className="w-10/12 object-center mr-8 " 
         />
       </div>
         
        
-        <div className="w-1/2 pl-10 py-10"> // Increase the left padding for more space
+        <div className="w-1/2 pl-10 py-10"> 
           <h1 className="text-4xl font-bold text-gray-800">
             We&apos;ve stopped counting.<br/>
             Over 500 brands count on us.

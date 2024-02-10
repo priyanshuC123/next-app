@@ -16,15 +16,15 @@ const OrgSection = () => {
     
           <div className="flex overflow-x-hidden " style={{ marginTop:"100px" }}>
           <div className="min-w-max flex space-x-8 scroll-animation">
-            {/* Duplicate the logos enough times to ensure continuous scrolling */}
+            
             {[...Array(2)].map((_, i) => (
               <React.Fragment key={i}>
-                {/* Replace with your logos */}
+               
                 <img src="/assets/Lg.jpeg" alt="Logo 1" className="h-12" />
                 <img src="/assets/microsoft.jpeg" alt="Logo 2" className="h-12" />
                 <img src="/assets/google.jpeg" alt="Logo 3" className="h-12" />
                 <img src="/assets/slack.jpeg" alt="Logo 3" className="h-12" />
-                {/* Repeat for as many logos as you have */}
+               
               </React.Fragment>
             ))}
           </div>

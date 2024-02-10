@@ -10,7 +10,7 @@ const Services = () => {
           <span
             className="text-transparent bg-clip-text"
             style={{
-              backgroundImage: 'linear-gradient(to bottom, #667eea, #764ba2)', // Blue to purple gradient
+              backgroundImage: 'linear-gradient(to bottom, #667eea, #764ba2)', 
             }}
           >
             challenge.
