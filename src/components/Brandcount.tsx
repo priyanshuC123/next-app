@@ -10,7 +10,7 @@ const Brandcount = () => {
       />
       <div className="text-left p-6 space-y-4">
         <h2 className="text-4xl font-bold text-gray-800">
-          We've stopped counting.
+          We&apos;ve stopped counting.
         </h2>
         <p className="text-xl text-gray-600">
           Over 500 brands count on us.

@@ -17,7 +17,7 @@ const BrandSection = () => {
        
         <div className="w-1/2 pl-10 py-10"> // Increase the left padding for more space
           <h1 className="text-4xl font-bold text-gray-800">
-            We've stopped counting.<br/>
+            We&apos;ve stopped counting.<br/>
             Over 500 brands count on us.
           </h1>
           <br />
